@@ -15,3 +15,4 @@ A collection of solutions to UVA Online Judge problems using C++.
 | [466 - Mirror, Mirror](https://onlinejudge.org/external/4/466.pdf)               | transformation   | [p466.cpp](https://github.com/seuristic/uva-solutions/blob/main/p466.cpp)     |
 | [1062 - Containers](https://onlinejudge.org/external/10/1062.pdf)                | stack, greedy    | [p1062.cpp](https://github.com/seuristic/uva-solutions/blob/main/p1062.cpp)   |
 | [13055 - Inception](https://onlinejudge.org/external/130/13055.pdf)              | stack            | [p13055.cpp](https://github.com/seuristic/uva-solutions/blob/main/p13055.cpp) |
+| [673 - Parentheses Balance](https://onlinejudge.org/external/6/673.pdf)          | stack            | [p673.cpp](https://github.com/seuristic/uva-solutions/blob/main/p673.cpp)     |
