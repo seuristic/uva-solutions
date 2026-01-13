@@ -17,3 +17,4 @@ A collection of solutions to UVA Online Judge problems using C++.
 | [13055 - Inception](https://onlinejudge.org/external/130/13055.pdf)                      | stack            | [p13055.cpp](https://github.com/seuristic/uva-solutions/blob/main/p13055.cpp) |
 | [673 - Parentheses Balance](https://onlinejudge.org/external/6/673.pdf)                  | stack            | [p673.cpp](https://github.com/seuristic/uva-solutions/blob/main/p673.cpp)     |
 | [10172 - The Lonesome Cargo Distributor](https://onlinejudge.org/external/101/10172.pdf) | queue, stack     | [p10172.cpp](https://github.com/seuristic/uva-solutions/blob/main/p10172.cpp) |
+| [12108 - Extraordinarily Tired Students](https://onlinejudge.org/external/121/12108.pdf) | queue            | [p12108.cpp](https://github.com/seuristic/uva-solutions/blob/main/p12108.cpp) |
