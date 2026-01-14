@@ -18,3 +18,5 @@ A collection of solutions to UVA Online Judge problems using C++.
 | [673 - Parentheses Balance](https://onlinejudge.org/external/6/673.pdf)                  | stack            | [p673.cpp](https://github.com/seuristic/uva-solutions/blob/main/p673.cpp)     |
 | [10172 - The Lonesome Cargo Distributor](https://onlinejudge.org/external/101/10172.pdf) | queue, stack     | [p10172.cpp](https://github.com/seuristic/uva-solutions/blob/main/p10172.cpp) |
 | [12108 - Extraordinarily Tired Students](https://onlinejudge.org/external/121/12108.pdf) | queue            | [p12108.cpp](https://github.com/seuristic/uva-solutions/blob/main/p12108.cpp) |
+| [11997 - K Smallest Sums](https://onlinejudge.org/external/119/11997.pdf)                | priority queue   | [p11997.cpp](https://github.com/seuristic/uva-solutions/blob/main/p11997.cpp) |
+| [13190 - Rockabye Tobby](https://onlinejudge.org/external/131/13190.pdf)                 | priority queue   | [p13190.cpp](https://github.com/seuristic/uva-solutions/blob/main/p13190.cpp) |
