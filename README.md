@@ -20,3 +20,4 @@ A collection of solutions to UVA Online Judge problems using C++.
 | [12108 - Extraordinarily Tired Students](https://onlinejudge.org/external/121/12108.pdf) | queue            | [p12108.cpp](https://github.com/seuristic/uva-solutions/blob/main/p12108.cpp) |
 | [11997 - K Smallest Sums](https://onlinejudge.org/external/119/11997.pdf)                | priority queue   | [p11997.cpp](https://github.com/seuristic/uva-solutions/blob/main/p11997.cpp) |
 | [13190 - Rockabye Tobby](https://onlinejudge.org/external/131/13190.pdf)                 | priority queue   | [p13190.cpp](https://github.com/seuristic/uva-solutions/blob/main/p13190.cpp) |
+| [10260 - Soundex](https://onlinejudge.org/external/102/10260.pdf)                        | hashmap          | [p10260.cpp](https://github.com/seuristic/uva-solutions/blob/main/p10260.cpp) |
