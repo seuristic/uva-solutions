@@ -23,3 +23,5 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [10260](https://github.com/seuristic/uva-solutions/blob/main/p10260.cpp) | hashmap          |
 | [11203](https://github.com/seuristic/uva-solutions/blob/main/p11203.cpp) | DAT              |
 | [11348](https://github.com/seuristic/uva-solutions/blob/main/p11348.cpp) | hashmap          |
+| [12049](https://github.com/seuristic/uva-solutions/blob/main/p12049.cpp) | hashset          |
+| [13148](https://github.com/seuristic/uva-solutions/blob/main/p13148.cpp) | hashset          |
