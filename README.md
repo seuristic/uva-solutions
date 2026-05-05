@@ -28,3 +28,5 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [10815](https://github.com/seuristic/uva-solutions/blob/main/p10815.cpp) | set/map          |
 | [11136](https://github.com/seuristic/uva-solutions/blob/main/p11136.cpp) | set/map          |
 | [10138](https://github.com/seuristic/uva-solutions/blob/main/p10138.cpp) | set/map          |
+| [12504](https://github.com/seuristic/uva-solutions/blob/main/p12504.cpp) | set/map          |
+| [10909](https://github.com/seuristic/uva-solutions/blob/main/p10909.cpp) | pbds             |
