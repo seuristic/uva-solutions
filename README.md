@@ -34,3 +34,5 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [11860](https://github.com/seuristic/uva-solutions/blob/main/p11860.cpp) | hashmap, sliding window |
 | [11991](https://github.com/seuristic/uva-solutions/blob/main/p11991.cpp) | graph                   |
 | [00599](https://github.com/seuristic/uva-solutions/blob/main/p00599.cpp) | graph                   |
+| [10895](https://github.com/seuristic/uva-solutions/blob/main/p10895.cpp) | graph                   |
+| [11550](https://github.com/seuristic/uva-solutions/blob/main/p11550.cpp) | graph                   |
