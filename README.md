@@ -12,10 +12,11 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [12662](https://github.com/seuristic/uva-solutions/blob/main/p12662.cpp) | string                  |
 | [12720](https://github.com/seuristic/uva-solutions/blob/main/p12720.cpp) | binary ops              |
 | [13212](https://github.com/seuristic/uva-solutions/blob/main/p13212.cpp) | merge sort              |
-| [466](https://github.com/seuristic/uva-solutions/blob/main/p466.cpp)     | transformation          |
-| [1062](https://github.com/seuristic/uva-solutions/blob/main/p1062.cpp)   | stack, greedy           |
+| [00466](https://github.com/seuristic/uva-solutions/blob/main/p00466.cpp) | transformation          |
+| [00750](https://github.com/seuristic/uva-solutions/blob/main/p00750.cpp) | backtracking            |
+| [01062](https://github.com/seuristic/uva-solutions/blob/main/p01062.cpp) | stack, greedy           |
 | [13055](https://github.com/seuristic/uva-solutions/blob/main/p13055.cpp) | stack                   |
-| [673](https://github.com/seuristic/uva-solutions/blob/main/p673.cpp)     | stack                   |
+| [00673](https://github.com/seuristic/uva-solutions/blob/main/p00673.cpp) | stack                   |
 | [10172](https://github.com/seuristic/uva-solutions/blob/main/p10172.cpp) | queue, stack            |
 | [12108](https://github.com/seuristic/uva-solutions/blob/main/p12108.cpp) | queue                   |
 | [11997](https://github.com/seuristic/uva-solutions/blob/main/p11997.cpp) | priority queue          |
