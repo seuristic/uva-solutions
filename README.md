@@ -6,6 +6,7 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | ------------------------------------------------------------------------ | ----------------------- |
 | [10258](https://github.com/seuristic/uva-solutions/blob/main/p10258.cpp) | sorting                 |
 | [10264](https://github.com/seuristic/uva-solutions/blob/main/p10264.cpp) | bitmask dp              |
+| [10128](https://github.com/seuristic/uva-solutions/blob/main/p10128.cpp) | dynamic programming     |
 | [11222](https://github.com/seuristic/uva-solutions/blob/main/p11222.cpp) | set intersection        |
 | [12291](https://github.com/seuristic/uva-solutions/blob/main/p12291.cpp) | pattern matching        |
 | [12571](https://github.com/seuristic/uva-solutions/blob/main/p12571.cpp) | bitwise xor             |
