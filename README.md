@@ -42,3 +42,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [01329](https://github.com/seuristic/uva-solutions/blob/main/p01329.cpp) | DSU                     |
 | [10685](https://github.com/seuristic/uva-solutions/blob/main/p10685.cpp) | DSU                     |
 | [11402](https://github.com/seuristic/uva-solutions/blob/main/p11402.cpp) | segment tree            |
+| [01588](https://github.com/seuristic/uva-solutions/blob/main/p01588.cpp) | string                  |
