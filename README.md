@@ -46,3 +46,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [11236](https://github.com/seuristic/uva-solutions/blob/main/p11236.cpp) | complete search         |
 | [12515](https://github.com/seuristic/uva-solutions/blob/main/p12515.cpp) | complete search         |
 | [01064](https://github.com/seuristic/uva-solutions/blob/main/p01064.cpp) | simulation              |
+| [11659](https://github.com/seuristic/uva-solutions/blob/main/p11659.cpp) | bitmask                 |
