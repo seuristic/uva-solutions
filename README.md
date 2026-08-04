@@ -50,3 +50,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [00725](https://github.com/seuristic/uva-solutions/blob/main/p00725.cpp) | complete search         |
 | [01225](https://github.com/seuristic/uva-solutions/blob/main/p01225.cpp) | simulation              |
 | [11254](https://github.com/seuristic/uva-solutions/blob/main/p11254.cpp) | math                    |
+| [10774](https://github.com/seuristic/uva-solutions/blob/main/p10774.cpp) | math                    |
