@@ -55,3 +55,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [00307](https://github.com/seuristic/uva-solutions/blob/main/p00307.cpp) | backtracking            |
 | [12192](https://github.com/seuristic/uva-solutions/blob/main/p12192.cpp) | binary search           |
 | [12190](https://github.com/seuristic/uva-solutions/blob/main/p12190.cpp) | binary search           |
+| [11147](https://github.com/seuristic/uva-solutions/blob/main/p11147.cpp) | recursion, prefix sum   |
