@@ -58,3 +58,5 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [11147](https://github.com/seuristic/uva-solutions/blob/main/p11147.cpp) | recursion, prefix sum   |
 | [11900](https://github.com/seuristic/uva-solutions/blob/main/p11900.cpp) | greedy                  |
 | [11264](https://github.com/seuristic/uva-solutions/blob/main/p11264.cpp) | greedy                  |
+| [12834](https://github.com/seuristic/uva-solutions/blob/main/p12834.cpp) | greedy, sorting         |
+| [10954](https://github.com/seuristic/uva-solutions/blob/main/p10954.cpp) | greedy, priority queue  |
