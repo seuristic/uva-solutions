@@ -60,3 +60,5 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [11264](https://github.com/seuristic/uva-solutions/blob/main/p11264.cpp) | greedy                  |
 | [12834](https://github.com/seuristic/uva-solutions/blob/main/p12834.cpp) | greedy, sorting         |
 | [10954](https://github.com/seuristic/uva-solutions/blob/main/p10954.cpp) | greedy, priority queue  |
+| [11520](https://github.com/seuristic/uva-solutions/blob/main/p11520.cpp) | greedy, grid            |
+| [11583](https://github.com/seuristic/uva-solutions/blob/main/p11583.cpp) | greedy, bitmask         |
