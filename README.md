@@ -62,3 +62,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [10954](https://github.com/seuristic/uva-solutions/blob/main/p10954.cpp) | greedy, priority queue  |
 | [11520](https://github.com/seuristic/uva-solutions/blob/main/p11520.cpp) | greedy, grid            |
 | [11583](https://github.com/seuristic/uva-solutions/blob/main/p11583.cpp) | greedy, bitmask         |
+| [01105](https://github.com/seuristic/uva-solutions/blob/main/p01105.cpp) | 2D prefix sum           |
