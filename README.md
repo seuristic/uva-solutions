@@ -64,3 +64,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [11583](https://github.com/seuristic/uva-solutions/blob/main/p11583.cpp) | greedy, bitmask         |
 | [01105](https://github.com/seuristic/uva-solutions/blob/main/p01105.cpp) | 2D prefix sum           |
 | [10534](https://github.com/seuristic/uva-solutions/blob/main/p10534.cpp) | LIS, binary search      |
+| [11566](https://github.com/seuristic/uva-solutions/blob/main/p11566.cpp) | DP, knapsack            |
