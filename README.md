@@ -66,3 +66,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [10534](https://github.com/seuristic/uva-solutions/blob/main/solutions/p10534.cpp) | LIS, binary search            |
 | [11566](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11566.cpp) | DP, knapsack                  |
 | [10448](https://github.com/seuristic/uva-solutions/blob/main/solutions/p10448.cpp) | tree, DFS, unbounded knapsack |
+| [11795](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11795.cpp) | bitmask DP, memoization       |
