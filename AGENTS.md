@@ -27,8 +27,10 @@ and has one row in the `README.md` table.
    - `<approach>` is a short lowercase technique list, comma-separated:
      `greedy, sorting`, `2D prefix sum`, `binary search`.
 
-3. Format the table: `npx --yes prettier --write README.md`
-   (this is what keeps the column padding aligned — don't hand-pad).
+3. Always format `README.md` before staging — even when no rows were added:
+   `npx --yes prettier --write README.md`
+   (this is what keeps the column padding aligned — don't hand-pad). Verify with
+   `npx --yes prettier --check README.md` before committing.
 4. Stage everything and commit with a conventional commit message:
    - new solution(s): `feat: add solution for UVa NNNNN` (drop leading zeros here)
    - edits to existing solutions: `fix:` or `refactor:` as appropriate
