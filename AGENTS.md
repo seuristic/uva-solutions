@@ -6,8 +6,16 @@ and has one row in the `README.md` table.
 ## When asked to commit / push
 
 1. `git status --short --untracked-files=all` and `git diff` to see what changed.
-2. For each **new** `solutions/pNNNNN.cpp`: read it, infer the algorithm/technique
-   used, and append a row to the table in `README.md`:
+2. For every `solutions/pNNNNN.cpp` with no row in the `README.md` table — not just
+   the newly added ones — read it, infer the algorithm/technique used, and append a
+   row to the table in `README.md`:
+
+   Find them with:
+
+   ```
+   for f in solutions/p*.cpp; do n=${f#solutions/p}; n=${n%.cpp}; \
+     grep -q "solutions/p$n.cpp" README.md || echo "$n"; done
+   ```
 
    ```
    | [NNNNN](https://github.com/seuristic/uva-solutions/blob/main/solutions/pNNNNN.cpp) | <approach> |
@@ -18,7 +26,6 @@ and has one row in the `README.md` table.
    - Rows are appended at the end — the table is not sorted.
    - `<approach>` is a short lowercase technique list, comma-separated:
      `greedy, sorting`, `2D prefix sum`, `binary search`.
-   - Skip files that already have a row.
 
 3. Format the table: `npx --yes prettier --write README.md`
    (this is what keeps the column padding aligned — don't hand-pad).
