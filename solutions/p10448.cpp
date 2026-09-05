@@ -5,7 +5,6 @@ using ll = long long;
 
 const int INF = 1e9;
 
-int n;
 vector<unordered_map<int, int>> adj;
 vector<int> costs;
 
@@ -41,7 +40,7 @@ bool dfs(int prev, int u, int dest, vector<int>& p) {
 }
 
 void solve() {
-  int m;
+  int n, m;
   cin >> n >> m;
   adj.assign(n + 1, {});
   for (int i = 0; i < m; ++i) {
