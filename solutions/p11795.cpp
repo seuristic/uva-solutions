@@ -19,8 +19,6 @@ ll f(int mask) {
   ll available = can[mask] & ~mask;
 
   for (int v = 1; v <= n; ++v) {
-    if (mask & (1 << v)) continue;
-
     if (available & (1 << v)) {
       ans += f(mask | (1 << v));
     }
