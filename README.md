@@ -70,3 +70,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [11420](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11420.cpp) | DP, memoization                  |
 | [12862](https://github.com/seuristic/uva-solutions/blob/main/solutions/p12862.cpp) | tree, DFS, greedy                |
 | [11749](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11749.cpp) | graph, DFS, connected components |
+| [00871](https://github.com/seuristic/uva-solutions/blob/main/solutions/p00871.cpp) | grid, flood fill, DFS            |
