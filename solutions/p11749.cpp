@@ -14,11 +14,11 @@ vector<int> dfs_num;
 int dfs(int u) {
   dfs_num[u] = VISITED;
 
-  int count = 0;
+  int count = 1;
 
   for (auto& [v, w] : adj[u]) {
     if (dfs_num[v] == UNVISITED && w == max_ppa) {
-      count += 1 + dfs(v);
+      count += dfs(v);
     }
   }
 
@@ -48,7 +48,7 @@ void solve() {
 
     for (int u = 0; u < n; ++u) {
       if (dfs_num[u] == UNVISITED) {
-        ans = max(ans, 1 + dfs(u));
+        ans = max(ans, dfs(u));
       }
     }
 
