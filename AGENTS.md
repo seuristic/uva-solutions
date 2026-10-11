@@ -26,7 +26,8 @@ and has one row in the `README.md` table.
    - `NNNNN` is the filename digits verbatim (zero-padded, e.g. `01105`); the link
      text keeps that padding.
    - Rows are appended at the end — the table is not sorted.
-   - `<approach>` is a short lowercase technique list, comma-separated:
+   - `<approach>` is a short lowercase technique list, comma-separated, **at most
+     two tags** — pick the two that best identify the solution:
      `greedy, sorting`, `2D prefix sum`, `binary search`.
 
 4. Always format `README.md` before staging — even when no rows were added:
