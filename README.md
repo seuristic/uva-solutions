@@ -74,3 +74,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [01103](https://github.com/seuristic/uva-solutions/blob/main/solutions/p01103.cpp) | grid, flood fill, hex decoding   |
 | [00872](https://github.com/seuristic/uva-solutions/blob/main/solutions/p00872.cpp) | topological sort, backtracking   |
 | [10116](https://github.com/seuristic/uva-solutions/blob/main/solutions/p10116.cpp) | grid, DFS, cycle detection       |
+| [12363](https://github.com/seuristic/uva-solutions/blob/main/solutions/p12363.cpp) | bridges, DFS                     |
