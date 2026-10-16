@@ -75,3 +75,5 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [00872](https://github.com/seuristic/uva-solutions/blob/main/solutions/p00872.cpp) | topological sort, backtracking   |
 | [10116](https://github.com/seuristic/uva-solutions/blob/main/solutions/p10116.cpp) | grid, DFS, cycle detection       |
 | [12363](https://github.com/seuristic/uva-solutions/blob/main/solutions/p12363.cpp) | bridges, DFS                     |
+| [11709](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11709.cpp) | SCC, Tarjan                      |
+| [11831](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11831.cpp) | grid, simulation                 |
