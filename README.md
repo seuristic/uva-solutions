@@ -77,3 +77,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [12363](https://github.com/seuristic/uva-solutions/blob/main/solutions/p12363.cpp) | bridges, DFS                     |
 | [11709](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11709.cpp) | SCC, Tarjan                      |
 | [11831](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11831.cpp) | grid, simulation                 |
+| [11631](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11631.cpp) | MST, Prim                        |
