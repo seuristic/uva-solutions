@@ -79,3 +79,4 @@ A collection of my solutions to UVA Online Judge problems in Cpp.
 | [11831](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11831.cpp) | grid, simulation                 |
 | [11631](https://github.com/seuristic/uva-solutions/blob/main/solutions/p11631.cpp) | MST, Prim                        |
 | [01265](https://github.com/seuristic/uva-solutions/blob/main/solutions/p01265.cpp) | union-find, Kruskal              |
+| [10653](https://github.com/seuristic/uva-solutions/blob/main/solutions/p10653.cpp) | grid, BFS                        |
