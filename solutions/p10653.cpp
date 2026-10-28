@@ -8,7 +8,7 @@ int dir[] = {0, -1, 0, 1, 0};
 void solve() {
   int n, m;
   while (cin >> n >> m && (n || m)) {
-    vector<vector<bool>> bomb_area(n, vector<bool>(m, false));
+    vector<vector<bool>> bomb(n, vector<bool>(m, false));
 
     int rows;
     cin >> rows;
@@ -20,7 +20,7 @@ void solve() {
       while (bombs--) {
         int col_id;
         cin >> col_id;
-        bomb_area[row_id][col_id] = true;
+        bomb[row_id][col_id] = true;
       }
     }
 
@@ -28,45 +28,36 @@ void solve() {
     cin >> src.first >> src.second;
     cin >> dest.first >> dest.second;
 
-    int time_taken = 0;
+    int ans = -1;
     queue<pair<int, int>> q;
+    vector<vector<int>> dist(n, vector<int>(m, -1));
 
     q.push(src);
-    bomb_area[src.first][src.second] = false;
+    dist[src.first][src.second] = 0;
 
     while (!q.empty()) {
-      int qsize = q.size();
-      bool found = false;
+      auto [r, c] = q.front();
+      q.pop();
 
-      while (qsize--) {
-        auto [r, c] = q.front();
-        q.pop();
-
-        for (int i = 0; i < 4; ++i) {
-          int nr = r + dir[i];
-          int nc = c + dir[i + 1];
-
-          if (nr < 0 || nr >= n || nc < 0 || nc >= m || bomb_area[nr][nc])
-            continue;
-
-          if (nr == dest.first && nc == dest.second) {
-            found = true;
-            break;
-          }
-
-          q.push({nr, nc});
-          bomb_area[nr][nc] = true;
-        }
-
-        if (found) break;
+      if (make_pair(r, c) == dest) {
+        ans = dist[r][c];
+        break;
       }
 
-      ++time_taken;
+      for (int i = 0; i < 4; ++i) {
+        int nr = r + dir[i];
+        int nc = c + dir[i + 1];
 
-      if (found) break;
+        if (nr < 0 || nr >= n || nc < 0 || nc >= m || bomb[nr][nc] ||
+            dist[nr][nc] != -1)
+          continue;
+
+        dist[nr][nc] = dist[r][c] + 1;
+        q.push({nr, nc});
+      }
     }
 
-    cout << time_taken << '\n';
+    cout << ans << '\n';
   }
 }
 
